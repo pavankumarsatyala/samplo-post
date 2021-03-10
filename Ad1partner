@@ -1,0 +1,63 @@
+/api/service/role/findall >> get
+[
+  {
+    "roleId": "ADM",
+    "roleName": "Super Administrator"
+  },
+  {
+    "roleId": "DLR",
+    "roleName": "Dealer"
+  },
+  {
+    "roleId": "UDA",
+    "roleName": "Sub Group Dealer"
+  },
+  {
+    "roleId": "SAT",
+    "roleName": "Super Admin Test"
+  },
+  {
+    "roleId": "SAE",
+    "roleName": "Super Admin Testt"
+  },
+  {
+    "roleId": "SAQ",
+    "roleName": "Super Admin Quality"
+  },
+  {
+    "roleId": "UGA",
+    "roleName": "Group Dealer"
+  },
+  {
+    "roleId": "UJA",
+    "roleName": "Jasa Dealer"
+  },
+  {
+    "roleId": "SAC",
+    "roleName": "Super Admin Control"
+  },
+  {
+    "roleId": "SAD",
+    "roleName": "Super Admin Dewa"
+  },
+  {
+    "roleId": "UKA",
+    "roleName": "Ukraina"
+  },
+  {
+    "roleId": "UGU",
+    "roleName": "User Geng Ungu"
+  },
+  {
+    "roleId": "URA",
+    "roleName": "User Relationship"
+  },
+  {
+    "roleId": "UZA",
+    "roleName": "Sprint 4"
+  },
+  {
+    "roleId": "088",
+    "roleName": "COBA"
+  }
+]
